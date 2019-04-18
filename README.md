@@ -1,4 +1,4 @@
-# Torque for Magento
+# Torque for Magento (forked from monero integrations)
 Torque Payment Gateway for Magento 2
 
 ## Dependencies
