@@ -1,0 +1,28 @@
+{
+    "name": "torqueintegrations/torquepayment",
+    "description": "Accept Torque",
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+                "BSD-3"
+                ],
+    "authors": [
+                {
+                "name": "Monero-Integrations",
+                "email": "",
+                "homepage": "http://monerointegrations.com",
+                "role": "Developer"
+                }
+                ],
+    "autoload": {
+        "files": [
+                  "registration.php"
+                  ],
+        "psr-4": {
+            "TorqueIntegrations\\Custompayment\\": ""
+        }
+    }
+}
