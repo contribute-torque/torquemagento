@@ -13,7 +13,7 @@ Installing with composer is the easiest way to install this plugin.
 `"repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/torque-integrations/torquemagento"
+            "url": "https://github.com/contribute-torque/torquemagento"
         }
     ],`
 - Make sure that your `"minimum-stability"` is set to `"dev"`. It should look like this `"minimum-stability": "dev",`
